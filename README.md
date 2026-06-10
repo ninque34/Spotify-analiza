@@ -1,5 +1,4 @@
-# Spotify-analiza
-(Spotify Subscription Prediction)
+# Spotify Subscription Prediction
 
 ## Opis projektu
 
