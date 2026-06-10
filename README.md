@@ -29,3 +29,6 @@ Problem został potraktowany jako klasyfikacja binarna:
 Modele zostały ocenione przy użyciu:
 - classification_report
 - F1-score
+
+Oba modele osiągnęły bardzo wysokie i podobne wyniki (F1-score ~1.00), co wskazuje, że problem klasyfikacji jest stosunkowo łatwy dla tego zbioru danych.
+Nie zaobserwowano istotnej przewagi jednego modelu nad drugim - oba modele osiągają porównywalną skuteczność.
