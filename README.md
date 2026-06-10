@@ -17,7 +17,7 @@ Problem został potraktowany jako klasyfikacja binarna:
 ## Zastosowane modele
 - Logistic Regression
 - Random Forest
-- 
+  
 ## Analiza obejmuje
 - czyszczenie danych,
 - analizę brakujących danych,
