@@ -1,5 +1,5 @@
 # Spotify-analiza
-(Spotify Premium Prediction)
+(Spotify Subscription Prediction)
 
 ## Opis projektu
 
@@ -11,6 +11,7 @@ Problem został potraktowany jako klasyfikacja binarna:
 
 ## W projekcie wykorzystano
 - pandas
+- numpy
 - matplotlib
 - scikit-learn
 
@@ -19,16 +20,14 @@ Problem został potraktowany jako klasyfikacja binarna:
 - Random Forest
   
 ## Analiza obejmuje
-- czyszczenie danych,
-- analizę brakujących danych,
+- analizę danych,
 - wizualizację danych,
-- przygotowanie danych do machine learning,
-- porównanie modeli klasyfikacyjnych.
-
+- sprawdzenie brakujących wartości,
+- preprocessing danych,
+- OneHotEncoder,
+- train/test split,
+- GridSearchCV,
+- porównanie modeli
+  
 ## Ocena modeli
-Modele zostały ocenione przy użyciu:
-- classification_report
-- F1-score
-
-Oba modele osiągnęły bardzo wysokie i podobne wyniki (F1-score ~1.00), co wskazuje, że problem klasyfikacji jest stosunkowo łatwy dla tego zbioru danych.
-Nie zaobserwowano istotnej przewagi jednego modelu nad drugim - oba modele osiągają porównywalną skuteczność.
+Lepsze wyniki osiągnął model Random Forest.
