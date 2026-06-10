@@ -1,4 +1,4 @@
-# Spotify Subscription Prediction
+# Spotify - przewidywanie typu subskrypcji
 
 ## Opis projektu
 
